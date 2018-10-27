@@ -1,0 +1,5 @@
+This is a small C-Program that implements two matrix functions
+To find Co-factor of a particular element in given matrix.
+To find the determinat of given matrix.
+The algorithm used is explained in given link:
+http://www.sosmath.com/matrix/determ1/determ1.html
