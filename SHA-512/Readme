@@ -7,3 +7,9 @@ operations according to it.
 The reference used for SHA-512 algorithm is
 Chapter-11 Crypographic Hash Functions of book:
 Cryptography and Network Security Principles and Practice by William Stallings 5th Edition.
+
+The test driver code for implemntation is in driver.c
+This calculates the SHA-512 hash of "abc"
+The Hash Value (in Hexadecimal is):
+DDAF35A193617ABA CC417349AE204131 12E6FA4E89A97EA2 0A9EEEE64B55D39A
+2192992A274FC1A8 36BA3C23A3FEEBBD 454D4423643CE80E 2A9AC94FA54CA49F
