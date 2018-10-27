@@ -1,0 +1,9 @@
+This is the C code for implementing SHA 512.
+SHA-512 creates a 512 bit hash value for arbitary length of input message.
+This implemetation requires the input message to be stored in a file from where message will be read byte by byte.
+This implementation is endianess-independent. The program test endianess of the system at runtime and perform
+operations according to it.
+
+The reference used for SHA-512 algorithm is
+Chapter-11 Crypographic Hash Functions of book:
+Cryptography and Network Security Principles and Practice by William Stallings 5th Edition.
