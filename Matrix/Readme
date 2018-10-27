@@ -3,3 +3,5 @@ To find Co-factor of a particular element in given matrix.
 To find the determinat of given matrix.
 The algorithm used is explained in given link:
 http://www.sosmath.com/matrix/determ1/determ1.html
+
+matrix.c is a small driver program to print Inverse of a Order-3 Matrix.
